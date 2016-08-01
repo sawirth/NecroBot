@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4eoclxw6ee53fouu?svg=true)](https://ci.appveyor.com/project/NecronomiconCoding/necrobot)
+[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/NecronomiconCoding/NecroBot/master/LICENSE.md)
+
 <!-- define warning icon -->
 [1.1]: http://necrobot.io/img/mainlogo.png (NECROBOT_HEADER)
 <!-- header -->
